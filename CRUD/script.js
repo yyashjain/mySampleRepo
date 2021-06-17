@@ -11,7 +11,6 @@ function onFormSubmit(){
     }
 }
 
-
 function readFormData(){
     var formData ={};
     formData["fullName"] = document.getElementById("fullName").value;
